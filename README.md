@@ -8,8 +8,7 @@
 - 👯 I’m also currently looking for Data related perspectives in the USA
 - 📫 Feel free to reach me at https://www.linkedin.com/in/zhanna-sakayeva/
 - 😄 Pronouns: she/her/hers
-<--
-**zhannasakayeva/zhannasakayeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 
